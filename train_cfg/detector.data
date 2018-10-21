@@ -1,0 +1,6 @@
+classes= 1
+train  = dataset/detector_train/train.list
+valid  = dataset/detector_valid/valid.list
+labels = 
+names = data/detector.names
+backup = model/detector

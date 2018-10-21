@@ -1,0 +1,6 @@
+classes= 4000
+train  = dataset/classifier_train/train.list
+valid  = dataset/classifier_valid/valid.list
+labels = data/classifier.names
+backup = model/classifier
+top = 100

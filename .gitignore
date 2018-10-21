@@ -235,3 +235,9 @@ venv.bak/
 /model/darknet19_448.conv.23
 !imgs/*.png
 crack/
+
+
+/model
+/model/detector_20181020_1900
+
+/products
